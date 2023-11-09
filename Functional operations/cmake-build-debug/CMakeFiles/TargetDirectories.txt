@@ -1,0 +1,3 @@
+C:/Users/migga/Documents/9 zajecie (szlify)/cmake-build-debug/CMakeFiles/9_zajecie__3_zad_.dir
+C:/Users/migga/Documents/9 zajecie (szlify)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/migga/Documents/9 zajecie (szlify)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
